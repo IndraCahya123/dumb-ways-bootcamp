@@ -10,5 +10,4 @@ we can merge it
 this is an update, again 
 yeah just an update
 
-this is an update from member 2
-just try update
+this file in the branch that will be used by your team to developt this program together
