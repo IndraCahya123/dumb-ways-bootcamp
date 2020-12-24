@@ -2,3 +2,7 @@ this is file in the branch.
 the branch is used if we want to make new feature in the main branch.
 so if this new feature is not really used or not really work in the main branch,
 we can delete this branch and back to developt the main branch.
+
+this is an update
+and if the new feature is usefull for the main branch,
+we can merge it
